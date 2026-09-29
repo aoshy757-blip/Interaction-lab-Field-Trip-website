@@ -1,0 +1,36 @@
+body {
+    background-color: #e8eee1;
+    color: #243321;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #31452c;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+main {
+    background-color: white;
+}
+
+h2 {
+    color: #31452c;
+}
+
+blockquote {
+    background-color:white
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #aaa;
+    padding: 8px;
+}
